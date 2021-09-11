@@ -8,3 +8,4 @@ console.log("Roti");
 console.log(roti)
 console.log("chapati");
 console.log(chapati);
+console.log(roti,chapati)
