@@ -9,7 +9,7 @@ for(let i = 0;i<=a.length-1;i++){
       obj[char] = 1
   }else {
     let prv = obj[char]
-    console.log(a[i])
+    //console.log(a[i])
      obj[char] = prv + 1; 
   }
 
